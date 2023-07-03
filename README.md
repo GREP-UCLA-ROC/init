@@ -24,3 +24,6 @@ A few notes on things that must happen which are unique to Flatcar.
 * mount `/usr`: The entire distro lives in this directory.
 * mount `/oem`: If an OEM is available on disk make sure it gets mounted here.
 * generate ssh keys: The stock sshd units do not handle this so we need to.
+
+
+Forked Jul 3 2023
